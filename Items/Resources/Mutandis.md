@@ -1,3 +1,4 @@
+# Mutandis
 
 This item is used to mutate plants into other, random plants. This is the only way to obtain certain Witchery plants, like [Rowan Saplings](/World/Plants/Trees/Rowan%20Sapling.md), Alder Saplings, and Hawthorn Saplings.
 
